@@ -901,3 +901,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.01-02.09.35:998][  0]LogRenderer: Reallocating scene render targets to support 1104x428 Format 10 NumSamples 1 (Frame:4).
 [2023.02.01-02.09.36:587][  2]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.02.01-02.09.47:082][313]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.01-02.13.01:692][451]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.01-02.13.01:697][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-02.13.01:697][451]PIE: New page: PIE session: SideScrollerExampleMap (Jan 31, 2023, 2:13:01 PM)
+[2023.02.01-02.13.01:698][451]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.01-02.13.01:700][451]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.01-02.13.01:700][451]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2023.02.01-02.13.02:099][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.399839s)
+[2023.02.01-02.13.02:100][451]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2023.02.01-02.13.02:101][451]LogPlayLevel: PIE: World Init took: (0.001852s)
+[2023.02.01-02.13.02:101][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.401908s)
+[2023.02.01-02.13.02:107][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.01-02.13.02:108][451]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.01-02.13.02:108][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-02.13.02:108][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-02.13.02:108][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-02.13.02:108][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-02.13.02:108][451]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 1: FrontRight
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 4: BackLeft
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 5: BackRight
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 6: SideLeft
+[2023.02.01-02.13.02:113][451]LogAudioMixer: Display: 7: SideRight
+[2023.02.01-02.13.02:256][451]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VIRTUOSO SE USB Gaming Headset)
+[2023.02.01-02.13.02:256][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-02.13.02:256][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-02.13.02:256][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-02.13.02:257][451]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.01-02.13.02:257][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.01-02.13.02:257][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.01-02.13.02:258][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.01-02.13.02:258][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.01-02.13.02:258][451]LogInit: FAudioDevice initialized.
+[2023.02.01-02.13.02:258][451]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2023.02.01-02.13.02:360][451]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2023.02.01-02.13.02:362][451]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2023.01.31-20.13.02
+[2023.02.01-02.13.02:370][451]LogWorld: Bringing up level for play took: 0.009398
+[2023.02.01-02.13.02:370][451]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.02.01-02.13.02:382][451]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.02.01-02.13.02:383][451]PIE: Server logged in
+[2023.02.01-02.13.02:384][451]PIE: Play in editor total start time 0.689 seconds.
+[2023.02.01-02.13.36:646][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-02.13.36:646][520]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2023.02.01-02.13.36:646][520]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-02.13.36:647][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-02.13.36:652][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-02.13.36:654][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-02.13.36:658][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.01-02.13.36:658][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-02.13.36:659][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.01-02.13.36:662][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-02.13.36:664][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.01-02.13.36:728][525]LogPlayLevel: Display: Destroying online subsystem :Context_2

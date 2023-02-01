@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GGJ2023/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+GGJ2023/Saved/Logs/GGJ2023.log
