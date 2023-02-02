@@ -2369,3 +2369,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.02-01.23.10:592][484]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2023.02.02-01.23.13:501][650]SourceControl: Source control is disabled
 [2023.02.02-01.23.13:501][650]LogSlate: Window 'Source Control Login' being destroyed
+[2023.02.02-01.24.16:720][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.02-01.24.18:074][632]LogSlate: Window 'Save Content' being destroyed
+[2023.02.02-01.24.18:130][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.02-01.24.18:151][632]LogSavePackage: Moving '../../../../../../Users/kolba/OneDrive/Documents/GGJ2023/GGJ2023/Saved/SideScrollerExampleMap10D563C943198EE29BF887AB8D9E11AB.tmp' to '../../../../../../Users/kolba/OneDrive/Documents/GGJ2023/GGJ2023/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2023.02.02-01.24.18:158][632]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.058
+[2023.02.02-01.24.18:186][632]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2023.02.02-01.24.18:186][632]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
