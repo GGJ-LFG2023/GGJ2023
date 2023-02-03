@@ -1,0 +1,1508 @@
+﻿Log file open, 02/02/23 23:36:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GGJ2023
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.241092
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.03-05.36.21:045][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:045][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:053][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.03-05.36.21:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.03-05.36.21:054][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.03-05.36.21:054][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.03-05.36.21:054][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.03-05.36.21:054][  0]LogHAL: Display: Platform has ~ 16 GB [16991240192 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.03-05.36.21:054][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.03-05.36.21:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Scalability.ini]
+[2023.02.03-05.36.21:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.03-05.36.21:056][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.03-05.36.21:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Engine.ini]
+[2023.02.03-05.36.21:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Config/Windows/Editor.ini]
+[2023.02.03-05.36.21:056][  0]LogInit: Computer: MSI
+[2023.02.03-05.36.21:056][  0]LogInit: User: Murda
+[2023.02.03-05.36.21:056][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.02.03-05.36.21:056][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.03-05.36.21:057][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.02.03-05.36.21:057][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.03-05.36.21:057][  0]LogMemory: Process Physical Memory: 146.23 MB used, 146.23 MB peak
+[2023.02.03-05.36.21:057][  0]LogMemory: Process Virtual Memory: 124.03 MB used, 124.03 MB peak
+[2023.02.03-05.36.21:057][  0]LogMemory: Physical Memory: 9253.46 MB used,  6950.65 MB free, 16204.11 MB total
+[2023.02.03-05.36.21:057][  0]LogMemory: Virtual Memory: 134212680.00 MB used,  5050.08 MB free, 134217728.00 MB total
+[2023.02.03-05.36.21:107][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.03-05.36.21:147][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.03-05.36.21:148][  0]LogInit: Using OS detected language (en-US).
+[2023.02.03-05.36.21:148][  0]LogInit: Using OS detected locale (en-US).
+[2023.02.03-05.36.21:151][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.02.03-05.36.21:428][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.03-05.36.21:444][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.03-05.36.21:462][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.03-05.36.21:462][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.03-05.36.21:809][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.03-05.36.27:344][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.02.03-05.36.27:344][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.03-05.36.27:344][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.03-05.36.27:344][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.03-05.36.27:412][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Super' (Feature Level 11_0)
+[2023.02.03-05.36.27:412][  0]LogD3D11RHI:       8010/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.02.03-05.36.27:485][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.02.03-05.36.27:485][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.03-05.36.27:488][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.03-05.36.27:488][  0]LogD3D11RHI:       0/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:    3. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:       128/0/8102 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     DeviceId    : 1e93
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     SubSysId    : 12bc1462
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     SharedSystemMemory : 8495620096 bytes
+[2023.02.03-05.36.27:523][  0]LogD3D11RHI:     AdapterLuid : 0 81517
+[2023.02.03-05.36.27:534][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.03-05.36.27:534][  0]LogD3D11RHI:     GPU DeviceId: 0x1e93 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.03-05.36.27:534][  0]LogWindows: EnumDisplayDevices:
+[2023.02.03-05.36.27:535][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.02.03-05.36.27:535][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.02.03-05.36.27:535][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.02.03-05.36.27:535][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2080 Super' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    7. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    8. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    9. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:536][  0]LogWindows:    10. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    11. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    12. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    13. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    14. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    15. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    16. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:538][  0]LogWindows:    17. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:539][  0]LogWindows:    18. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:539][  0]LogWindows:    19. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:539][  0]LogWindows:    20. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:539][  0]LogWindows:    21. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:539][  0]LogWindows:    22. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2023.02.03-05.36.27:539][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Super
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:   Driver Version: 442.76 (internal:26.21.14.4276, unified:442.76)
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:      Driver Date: 3-15-2020
+[2023.02.03-05.36.27:539][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 Super
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     DeviceId    : 1e93
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     SubSysId    : 12bc1462
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     SharedSystemMemory : 8495620096 bytes
+[2023.02.03-05.36.27:539][  0]LogD3D11RHI:     AdapterLuid : 0 81517
+[2023.02.03-05.36.27:585][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.03-05.36.27:585][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.03-05.36.27:585][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.03-05.36.27:599][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.03-05.36.27:642][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.03-05.36.27:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.03-05.36.28:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.03-05.36.28:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.03-05.36.28:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.03-05.36.28:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.03-05.36.28:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.03-05.36.28:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.03-05.36.28:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.03-05.36.28:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.03-05.36.28:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.03-05.36.28:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.03-05.36.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.03-05.36.28:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.03-05.36.28:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.03-05.36.28:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.03-05.36.28:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.03-05.36.28:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.03-05.36.28:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.03-05.36.28:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.03-05.36.28:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.03-05.36.28:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.03-05.36.28:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.03-05.36.28:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.03-05.36.28:218][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.03-05.36.28:230][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.03-05.36.28:290][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.03-05.36.28:351][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.03-05.36.28:351][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Intermediate/Shaders/WorkingDirectory/20848/).
+[2023.02.03-05.36.28:351][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Murda/AppData/Local/Temp/UnrealShaderWorkingDir/265EAC684EDFAC5D034051B170A4BB69/'.
+[2023.02.03-05.36.28:351][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.03-05.36.28:351][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.03-05.36.28:351][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.03-05.36.29:356][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.03-05.36.29:449][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/Murda/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.03-05.36.29:449][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Murda/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.03-05.36.29:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.03-05.36.29:449][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.03-05.36.29:449][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.03-05.36.29:449][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.03-05.36.29:466][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.03-05.36.29:467][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.03-05.36.29:467][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.03-05.36.29:477][  0]LogDerivedDataCache: Speed tests for C:/Users/Murda/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.03-05.36.29:477][  0]LogDerivedDataCache: Display: Performance to C:/Users/Murda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=280.28MBs, RandomWriteSpeed=123.75MBs. Assigned SpeedClass 'Local'
+[2023.02.03-05.36.29:478][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Murda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.03-05.36.29:478][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.03-05.36.29:478][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.03-05.36.29:526][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.03-05.36.29:528][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.03-05.36.29:559][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2023.02.03-05.36.30:024][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.03-05.36.30:024][  0]LogInit: Active device profile: [0000022798DA4E00][00000227989BE0C0 49] Windows
+[2023.02.03-05.36.30:024][  0]LogInit: Profiles: [0000022798DA4E00][00000227989BE0C0 49] Windows, [0000022798D5A300][00000227989CC380 49] WindowsNoEditor, [0000022798DA5D00][00000227989D0640 49] WindowsServer, [0000022798D5B100][00000227989DA900 49] WindowsClient, [0000022798DA6A00][00000227989C2B80 49] IOS, [0000022798D5B700][00000227989DEE00 49] iPadAir, [0000022798DA5500][00000227989E70C0 49] iPadAir2, [0000022798C29300][0000022798A01600 49] IPadPro, [0000022798C29400][00000227989EB640 49] iPadAir3, [0000022798D59900][00000227989F9900 49] iPadAir4, [0000022798C2A000][00000227989F5BC0 49] iPadMini2, [0000022798D5B000][00000227989FC300 49] iPadMini3, [0000022798C2AA00][0000022798A0A5C0 49] iPadMini4, [0000022798D58F00][0000022798A0E880 49] iPadMini5, [0000022798C30C00][0000022798A26D80 49] iPhone6, [0000022798C30D00][0000022798A12DC0 49] iPodTouch6, [0000022798DA7700][0000022798A332C0 49] iPhone7, [0000022798DA6700][00000227989E3300 49] iPodTouch7, [0000022798C2BC00][0000022798A2B5C0 49] iPhone5S, [0000022798C28100][0000022798A17880 49] iPhone6Plus, [0000022798C33F00][0000022798A2FB40 49] iPhone6S, [0000022798C28500][0000022798A3A280 49] iPhone6SPlus, [0000022798C32700][0000022798A3E540 49] iPhone7Plus, [0000022798C29A00][0000022798A42800 49] iPhoneSE, [0000022798C32900][0000022798A46AC0 49] iPhone8, [0000022798C2AE00][0000022798A4AD80 49] iPhone8Plus, [0000022798C32400][0000022798A1B000 49] iPhoneX, [0000022798DA5400][00000227957A3280 49] iPhoneXS, [0000022798C33500][00000227957D7540 49] iPhoneXSMax, [0000022798DA5900][00000227957DB800 49] iPhoneXR, [0000022798C30B00][00000227957DFAC0 49] iPhone11, [0000022798DA7600][00000227957E2200 49] iPhone11Pro, [0000022798C32100][00000227957E64C0 49] iPhone11ProMax, [0000022798DA6B00][0000022790844780 49] iPhoneSE2, [0000022798C33D00][0000022790848A40 49] iPhone12Mini, [0000022798DA7B00][0000022790850D00 49] iPhone12, [0000022798C31300][0000022790854FC0 49] iPhone12Pro, [0000022798DA5300][00000227957D3240 49] iPhone12ProMax, [0000022798C31100][00000227908594C0 49] iPadPro105, [0000022798DA4300][0000022790861780 49] iPadPro129, [0000022798C30500][0000022790865A40 49] iPadPro97, [0000022798DA7000][0000022790868180 49] iPadPro2_129, [0000022798C32000][000002279086C440 49] iPad5, [0000022798DA7A00][0000022790870700 49] iPad6, [0000022798C33C00][0000022797B789C0 49] iPad7, [0000022798DA6F00][0000022797B7CC80 49] iPad8, [0000022798C30800][0000022797B80F40 49] iPadPro11, [0000022798DA5B00][0000022797B85200 49] iPadPro2_11, [0000022798C31A00][000002279085D480 49] iPadPro3_129, [0000022798DA7C00][0000022797B89700 49] iPadPro4_129, [0000022798C33100][0000022797B919C0 49] AppleTV, [0000022798DA5E00][0000022797B94100 49] AppleTV4K, [0000022798C30200][0000022797B983C0 49] TVOS, [0000022798DA5C00][0000022797B9C680 49] Mac, [0000022798C31900][0000022797BA0940 49] MacClient, [0000022798DA6800][0000022797BA4C00 49] MacNoEditor, [0000022798C30600][0000022797BA8EC0 49] MacServer, [0000022798DA4A00][0000022797BAD180 49] Linux, [0000022798C30900][0000022797BB1440 49] LinuxAArch64, [0000022798DA6200][0000022797B8D6C0 49] LinuxNoEditor, [0000022798C33E00][0000022797BB5940 49] LinuxAArch64NoEditor, [0000022798DA7400][0000022797BBDC00 49] LinuxClient, [0000022798C33900][0000022797BC0340 49] LinuxAArch64Client, [0000022798DA7500][0000022797BC4600 49] LinuxServer, [0000022798C31C00][000002279859A8C0 49] LinuxAArch64Server, [0000022798DA7D00][000002279859EB80 49] Android, [0000022798C31700][00000227985A2E40 49] Android_Low, [0000022798DA5200][00000227985A7100 49] Android_Mid, [0000022798C31500][00000227985AB3C0 49] Android_High, [0000022798DA4800][00000227985AF680 49] Android_Default, [0000022798C31B00][0000022797BB9900 49] Android_Adreno4xx, [0000022798DA4600][00000227985B3B80 49] Android_Adreno5xx_Low, [0000022798C33400][00000227985BA2C0 49] Android_Adreno5xx, [0000022798C28600][00000227985BE580 49] Android_Adreno6xx, [0000022798D5AB00][00000227985C2840 49] Android_Adreno6xx_Vulkan, [0000022798C2B000][00000227985C6B00 49] Android_Mali_T6xx, [0000022798D5A900][00000227985CADC0 49] Android_Mali_T7xx, [0000022798C2B400][00000227985CF080 49] Android_Mali_T8xx, [0000022798D58D00][00000227985D3340 49] Android_Mali_G71, [0000022798C29500][00000227985D7600 49] Android_Mali_G72, [0000022798D58100][00000227985DB8C0 49] Android_Mali_G72_Vulkan, [0000022798C2A600][00000227985B7B40 49] Android_Mali_G76, [0000022798D59400][00000227985DE240 49] Android_Mali_G76_Vulkan, [0000022798C2A900][00000227985E6500 49] Android_Mali_G77, [0000022798D5BF00][00000227985EA7C0 49] Android_Mali_G77_Vulkan, [0000022798C2A800][00000227985EEA80 49] Android_Mali_G78, [0000022798D5A200][00000227985F2D40 49] Android_Mali_G78_Vulkan, [0000022798C2B300][00000227985F7000 49] Android_Mali_G710, [0000022798D58400][00000227985FB2C0 49] Android_Mali_G710_Vulkan, [0000022798C28900][00000227985FF580 49] Android_Vulkan_SM5, [0000022798D5AD00][0000022798603840 49] Android_PowerVR_G6xxx, [0000022798C2AD00][0000022798607B00 49] Android_PowerVR_GT7xxx, [0000022798D5A700][00000227985E2200 49] Android_PowerVR_GE8xxx, [0000022798C29600][000002279860E4C0 49] Android_PowerVR_GM9xxx, [0000022798D5AE00][0000022798612780 49] Android_PowerVR_GM9xxx_Vulkan, [0000022798C2BD00][0000022798616A40 49] Android_TegraK1, [0000022798D58200][000002279861AD00 49] Android_Unknown_Vulkan, [0000022798C2AB00][000002279861EFC0 49] Lumin, [0000022798D5AA00][0000022798623280 49] Lumin_Desktop, [0000022798C2B200][0000022798627540 49] HoloLens, 
+[2023.02.03-05.36.30:190][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.03-05.36.30:190][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.03-05.36.30:190][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.03-05.36.30:190][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.03-05.36.30:190][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.03-05.36.30:218][  0]LogNetVersion: GGJ2023 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2262209438)
+[2023.02.03-05.36.30:755][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.03-05.36.30:834][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.03-05.36.30:842][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.02.03-05.36.30:842][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.02.03-05.36.30:842][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.03-05.36.31:299][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2BEEC2094BED75EE86A43FB7A5F29985 | Instance: 92F0A56A456BB61E8D1A9281E768D524 (MSI-20848).
+[2023.02.03-05.36.31:345][  0]LogPython: Using Python 3.7.7
+[2023.02.03-05.36.31:966][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.03-05.36.31:972][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.03-05.36.32:228][  0]SourceControl: Source control is disabled
+[2023.02.03-05.36.32:704][  0]LogUProjectInfo: Found projects:
+[2023.02.03-05.36.32:844][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.03-05.36.32:893][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.03-05.36.32:920][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.03-05.36.32:920][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.03-05.36.33:075][  0]LogCollectionManager: Loaded 0 collections in 0.000859 seconds
+[2023.02.03-05.36.33:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Collections/' took 0.00s
+[2023.02.03-05.36.33:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Developers/Murda/Collections/' took 0.00s
+[2023.02.03-05.36.33:103][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Collections/' took 0.00s
+[2023.02.03-05.36.33:103][  0]LogOcInput: OculusInput pre-init called
+[2023.02.03-05.36.33:427][  0]LogEngine: Initializing Engine...
+[2023.02.03-05.36.33:521][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2023.02.03-05.36.33:534][  0]LogHMD: Optional extension XR_KHR_opengl_enable is not available
+[2023.02.03-05.36.33:534][  0]LogHMD: Optional extension XR_KHR_vulkan_enable is not available
+[2023.02.03-05.36.33:534][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.02.03-05.36.33:538][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2023.02.03-05.36.33:538][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.03-05.36.33:539][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.03-05.36.33:669][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.03-05.36.33:676][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.03-05.36.33:677][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.03-05.36.33:683][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.03-05.36.33:684][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.03-05.36.33:685][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.03-05.36.33:685][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-05.36.33:685][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-05.36.33:685][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-05.36.33:685][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-05.36.33:685][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-05.36.33:685][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.03-05.36.33:750][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.03-05.36.33:750][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.03-05.36.33:874][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.02.03-05.36.33:876][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-05.36.33:879][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-05.36.33:879][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-05.36.33:880][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.03-05.36.33:880][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.03-05.36.33:880][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.03-05.36.33:882][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.03-05.36.33:882][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.03-05.36.33:882][  0]LogInit: FAudioDevice initialized.
+[2023.02.03-05.36.33:882][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.03-05.36.33:883][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.03-05.36.33:934][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/Murda/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.03-05.36.33:934][  0]LogInit: Texture streaming: Enabled
+[2023.02.03-05.36.33:957][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.03-05.36.33:961][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.03-05.36.33:961][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.03-05.36.33:965][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.03-05.36.34:027][  0]LogInit: Transaction tracking system initialized
+[2023.02.03-05.36.34:051][  0]BlueprintLog: New page: Editor Load
+[2023.02.03-05.36.34:114][  0]LocalizationService: Localization service is disabled
+[2023.02.03-05.36.34:141][  0]TimingProfiler: Initialize
+[2023.02.03-05.36.34:141][  0]TimingProfiler: OnSessionChanged
+[2023.02.03-05.36.34:141][  0]LoadingProfiler: Initialize
+[2023.02.03-05.36.34:141][  0]LoadingProfiler: OnSessionChanged
+[2023.02.03-05.36.34:141][  0]NetworkingProfiler: Initialize
+[2023.02.03-05.36.34:141][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.03-05.36.34:141][  0]MemoryProfiler: Initialize
+[2023.02.03-05.36.34:141][  0]MemoryProfiler: OnSessionChanged
+[2023.02.03-05.36.34:308][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.03-05.36.34:308][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.03-05.36.34:524][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/' took 0.01s
+[2023.02.03-05.36.34:711][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.03-05.36.34:716][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.135
+[2023.02.03-05.36.34:716][  0]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-05.36.34:717][  0]LightingResults: New page: Lighting Build
+[2023.02.03-05.36.34:718][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.36.34:718][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.36.34:718][  0]MapCheck: New page: Map Check
+[2023.02.03-05.36.34:718][  0]LightingResults: New page: Lighting Build
+[2023.02.03-05.36.34:723][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-05.36.34:726][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.03-05.36.35:013][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2023.02.03-05.36.35:014][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2023.02.03-05.36.35:026][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-05.36.35:033][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.03-05.36.35:034][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-05.36.35:034][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2023.02.03-05.36.35:034][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.318
+[2023.02.03-05.36.35:037][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.456
+[2023.02.03-05.36.35:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-05.36.35:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-05.36.35:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-05.36.35:234][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-05.36.35:251][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0130 seconds. Added 3822 classes and 928 folders.
+[2023.02.03-05.36.35:253][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.03-05.36.35:255][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.03-05.36.35:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.03-05.36.35:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.03-05.36.35:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.02.03-05.36.35:257][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.03-05.36.35:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.03-05.36.35:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.03-05.36.35:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.02.03-05.36.35:258][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.03-05.36.35:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.03-05.36.35:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.03-05.36.35:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.02.03-05.36.35:258][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.03-05.36.35:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.03-05.36.35:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.03-05.36.35:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.02.03-05.36.35:259][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.03-05.36.35:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.03-05.36.35:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.03-05.36.35:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.03-05.36.35:260][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.03-05.36.35:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.03-05.36.35:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.03-05.36.35:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.03-05.36.35:260][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.03-05.36.35:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.03-05.36.35:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.03-05.36.35:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.02.03-05.36.35:261][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.03-05.36.35:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.03-05.36.35:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.03-05.36.35:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.03-05.36.35:262][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.03-05.36.35:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.03-05.36.35:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.03-05.36.35:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.03-05.36.35:263][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.03-05.36.35:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.03-05.36.35:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.03-05.36.35:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.02.03-05.36.35:264][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.03-05.36.35:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.03-05.36.35:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.03-05.36.35:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.02.03-05.36.35:265][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.03-05.36.35:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.03-05.36.35:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.03-05.36.35:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.02.03-05.36.35:265][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.03-05.36.35:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.03-05.36.35:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:265][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.03-05.36.35:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.02.03-05.36.35:266][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.03-05.36.35:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.03-05.36.35:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.03-05.36.35:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2023.02.03-05.36.35:266][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.03-05.36.35:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.03-05.36.35:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.03-05.36.35:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.03-05.36.35:268][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.03-05.36.35:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.03-05.36.35:268][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:268][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.03-05.36.35:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.02.03-05.36.35:269][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.03-05.36.35:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.03-05.36.35:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.03-05.36.35:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.02.03-05.36.35:270][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.03-05.36.35:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.03-05.36.35:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.03-05.36.35:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.03-05.36.35:271][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.03-05.36.35:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.03-05.36.35:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.03-05.36.35:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.02.03-05.36.35:271][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.03-05.36.35:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.03-05.36.35:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.03-05.36.35:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.02.03-05.36.35:272][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.03-05.36.35:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.03-05.36.35:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.03-05.36.35:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.02.03-05.36.35:273][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.03-05.36.35:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.03-05.36.35:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.03-05.36.35:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.02.03-05.36.35:273][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.03-05.36.35:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.03-05.36.35:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:273][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.03-05.36.35:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.03-05.36.35:274][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.03-05.36.35:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.03-05.36.35:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.03-05.36.35:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.02.03-05.36.35:275][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.03-05.36.35:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.03-05.36.35:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.03-05.36.35:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.03-05.36.35:276][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.03-05.36.35:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.03-05.36.35:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.03-05.36.35:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.03-05.36.35:276][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.03-05.36.35:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.03-05.36.35:370][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.02.03-05.36.35:371][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.02.03-05.36.35:382][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2023.02.03-05.36.35:493][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.03-05.36.35:495][  0]LogSlate: Took 0.000930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.03-05.36.35:497][  0]LogSlate: Took 0.000813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.03-05.36.35:639][  0]LogRenderer: Reallocating scene render targets to support 1148x676 Format 10 NumSamples 1 (Frame:1).
+[2023.02.03-05.36.35:774][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.03-05.36.35:774][  0]LogLoad: (Engine Initialization) Total time: 16.19 seconds
+[2023.02.03-05.36.35:774][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.03-05.36.35:824][  0]LogAssetRegistry: Asset discovery search completed in 6.2655 seconds
+[2023.02.03-05.36.35:831][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.03-05.36.35:833][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.03-05.36.35:939][  3]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.03-05.36.36:798][ 55]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.03-05.36.45:295][551]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap
+[2023.02.03-05.36.45:555][551]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 126 classes and 0 folders.
+[2023.02.03-05.36.46:332][551]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.03-05.36.48:720][683]LogSlate: Window 'SideScrollerExampleMap' being destroyed
+[2023.02.03-05.36.58:112][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.03-05.36.58:133][243]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2023.02.03-05.36.58:133][243]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-05.36.58:133][243]LightingResults: New page: Lighting Build
+[2023.02.03-05.36.58:133][243]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2023.02.03-05.36.58:149][243]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.36.58:149][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.36.58:178][243]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.36.58:178][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.36.58:179][243]MapCheck: New page: Map Check
+[2023.02.03-05.36.58:179][243]LightingResults: New page: Lighting Build
+[2023.02.03-05.36.58:192][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-05.36.58:197][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.03-05.36.58:208][243]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2023.02.03-05.36.58:209][243]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2023.02.03-05.36.58:241][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-05.36.58:260][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.03-05.36.58:266][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-05.36.58:266][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2023.02.03-05.36.58:266][243]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.132
+[2023.02.03-05.37.17:908][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.02.03-05.37.17:954][413]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LvL1_TheMarket.LvL1_TheMarket
+[2023.02.03-05.37.17:954][413]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/LvL1_TheMarket.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-05.37.17:954][413]LightingResults: New page: Lighting Build
+[2023.02.03-05.37.17:954][413]LoadErrors: New page: Loading map: LvL1_TheMarket.umap
+[2023.02.03-05.37.17:956][413]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.37.17:956][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.37.17:956][413]MapCheck: New page: Map Check
+[2023.02.03-05.37.17:956][413]LightingResults: New page: Lighting Build
+[2023.02.03-05.37.17:970][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-05.37.17:973][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.02.03-05.37.17:973][413]LogAudio: Display: Audio Device (ID: 1) registered with world 'LvL1_TheMarket'.
+[2023.02.03-05.37.17:995][413]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-05.37.17:995][413]LogAIModule: Creating AISystem for world LvL1_TheMarket
+[2023.02.03-05.37.18:017][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.03-05.37.18:023][413]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-05.37.18:023][413]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2023.02.03-05.37.18:023][413]LogFileHelpers: Loading map 'LvL1_TheMarket' took 0.069
+[2023.02.03-05.37.28:108][ 14]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/LvL1_TheMarket.LvL1_TheMarket:PersistentLevel.LvL1_TheMarket
+[2023.02.03-05.37.28:484][ 15]LogSlate: Took 0.000794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.03-05.37.39:637][665]LogSlate: Window 'LvL1_TheMarket' being destroyed
+[2023.02.03-05.37.39:644][665]LogSlate: Window 'LvL1_TheMarket' being destroyed
+[2023.02.03-05.37.39:652][665]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.37.39:652][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.38.00:191][888]LogContentBrowser: Attempting asset rename: LvL1_TheMarket -> MainMenu
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu_C' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C:ReceiveTick' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:819][888]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu_C:ReceiveBeginPlay' ref from Metadata '/Game/Maps/LvL1_TheMarket.PackageMetaData'
+[2023.02.03-05.38.00:865][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.03-05.38.00:875][888]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/MainMenu2125E1A3428EFFAC0D34F7BED87F44B2.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/MainMenu.umap'
+[2023.02.03-05.38.01:042][888]LogFileHelpers: Saving map 'MainMenu' took 0.199
+[2023.02.03-05.38.01:043][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LvL1_TheMarket" FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/LvL1_TheMarket.umap" SILENT=true
+[2023.02.03-05.38.01:046][888]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/LvL1_TheMarket179FE352402FDFB9174D808D52CD81EF.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/LvL1_TheMarket.umap'
+[2023.02.03-05.38.01:250][888]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-05.38.01:250][888]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2023.02.03-05.38.01:250][888]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/LvL1_TheMarket.Default__LvL1_TheMarket_C
+[2023.02.03-05.38.01:250][888]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/LvL1_TheMarket.LvL1_TheMarket_C
+[2023.02.03-05.38.01:250][888]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/LvL1_TheMarket.LvL1_TheMarket
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:265][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:266][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:266][222]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.38.07:591][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LvL1_TheMarket" FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/LvL1_TheMarket.umap" SILENT=true
+[2023.02.03-05.38.07:594][222]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/LvL1_TheMarketB7EAC409436F8B268E72D28F48714355.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/LvL1_TheMarket.umap'
+[2023.02.03-05.38.07:660][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.02.03-05.38.07:667][222]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/MainMenu95CEDA2D411EE2C503998FB838AF3850.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/MainMenu.umap'
+[2023.02.03-05.38.07:675][222]LogFileHelpers: Saving map 'MainMenu' took 0.081
+[2023.02.03-05.38.16:968][222]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.03-05.38.17:298][222]LogSourceControl: commit successful: [main 94e1458] main menu
+[2023.02.03-05.38.17:362][222]SourceControl: [main 94e1458] main menu
+[2023.02.03-05.38.17:362][222]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.02.03-05.38.17:362][222]SourceControl:  create mode 100644 GGJ2023/Content/Maps/MainMenu.umap
+[2023.02.03-05.38.17:371][222]SourceControl: Commited [main 94e1458] main menu.
+[2023.02.03-05.38.17:394][223]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-05.38.17:394][223]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2023.02.03-05.38.17:394][223]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/LvL1_TheMarket.Default__LvL1_TheMarket_C
+[2023.02.03-05.38.17:394][223]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/LvL1_TheMarket.LvL1_TheMarket_C
+[2023.02.03-05.38.17:394][223]LogContentValidation: Display: Validating ObjectRedirector /Game/Maps/LvL1_TheMarket.LvL1_TheMarket
+[2023.02.03-05.38.29:057][907]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.03-05.38.29:074][907]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.03-05.38.30:292][980]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.03-05.38.30:292][980]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.03-05.38.38:519][464]LogContentBrowser: Attempting asset rename: NewFolder -> levels
+[2023.02.03-05.38.43:310][743]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.03-05.38.43:324][743]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.03-05.38.58:324][642]LogContentBrowser: Attempting asset rename: NewWorld -> Lvl1_TheMarket
+[2023.02.03-05.38.58:461][642]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.03-05.39.08:546][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.02.03-05.39.10:362][243]LogSlate: Window 'Save Content' being destroyed
+[2023.02.03-05.39.10:530][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.03-05.39.10:535][243]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarketE8C728C14FE6B532B74E0E9BEFD0DE13.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-05.39.10:696][243]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.185
+[2023.02.03-05.39.10:745][243]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2023.02.03-05.39.10:745][243]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-05.39.10:745][243]LightingResults: New page: Lighting Build
+[2023.02.03-05.39.10:745][243]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2023.02.03-05.39.10:769][243]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.39.10:769][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.39.10:769][243]MapCheck: New page: Map Check
+[2023.02.03-05.39.10:769][243]LightingResults: New page: Lighting Build
+[2023.02.03-05.39.10:783][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-05.39.10:786][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.03-05.39.10:801][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.02.03-05.39.10:816][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.03-05.39.10:816][243]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2023.02.03-05.39.10:843][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-05.39.10:843][243]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2023.02.03-05.39.10:860][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.03-05.39.10:866][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-05.39.10:866][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2023.02.03-05.39.10:866][243]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.121
+[2023.02.03-05.39.10:886][243]AssetCheck: New page: Asset Save: Lvl1_TheMarket
+[2023.02.03-05.39.10:886][243]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-05.39.25:070][ 85]Cmd: EDIT COPY
+[2023.02.03-05.39.28:880][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.02.03-05.39.28:897][311]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-05.39.28:897][311]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-05.39.28:897][311]LightingResults: New page: Lighting Build
+[2023.02.03-05.39.28:897][311]LoadErrors: New page: Loading map: Lvl1_TheMarket.umap
+[2023.02.03-05.39.28:899][311]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.39.28:899][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.39.28:899][311]MapCheck: New page: Map Check
+[2023.02.03-05.39.28:899][311]LightingResults: New page: Lighting Build
+[2023.02.03-05.39.28:938][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-05.39.28:941][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.03-05.39.28:942][311]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl1_TheMarket'.
+[2023.02.03-05.39.28:963][311]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-05.39.28:963][311]LogAIModule: Creating AISystem for world Lvl1_TheMarket
+[2023.02.03-05.39.28:984][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.02.03-05.39.28:991][311]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-05.39.28:992][311]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.656ms to complete.
+[2023.02.03-05.39.28:992][311]LogFileHelpers: Loading map 'Lvl1_TheMarket' took 0.096
+[2023.02.03-05.39.30:820][418]Cmd: EDIT PASTE
+[2023.02.03-05.39.43:980][203]LogContentBrowser: Deferred new asset file creation: Lvl1_TheMarket1
+[2023.02.03-05.39.44:007][203]LogContentBrowser: Creating deferred item: Lvl1_TheMarket1
+[2023.02.03-05.39.44:928][259]LogContentBrowser: Attempting asset rename: Lvl1_TheMarket1 -> Lvl1_TheMarket1
+[2023.02.03-05.39.45:141][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.03-05.39.45:153][259]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarket151250AFD48A6284EACF1C9867B71BD99.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket1.umap'
+[2023.02.03-05.39.45:688][259]LogFileHelpers: Saving map 'Lvl1_TheMarket1' took 0.565
+[2023.02.03-05.39.45:926][259]LogContentBrowser: End creating deferred item Lvl1_TheMarket1
+[2023.02.03-05.39.45:941][259]AssetCheck: New page: Asset Save: Lvl1_TheMarket1
+[2023.02.03-05.39.45:941][259]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket1.Lvl1_TheMarket1
+[2023.02.03-05.39.47:880][373]LogContentBrowser: Deferred new asset file creation: Lvl1_TheMarket2
+[2023.02.03-05.39.47:904][373]LogContentBrowser: Creating deferred item: Lvl1_TheMarket2
+[2023.02.03-05.39.49:409][464]LogContentBrowser: Attempting asset rename: Lvl1_TheMarket2 -> Lvl1_TheMarket2
+[2023.02.03-05.39.49:639][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.02.03-05.39.49:649][464]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarket2882F85D447CEBA1D3D9D8C898564F672.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket2.umap'
+[2023.02.03-05.39.50:175][464]LogFileHelpers: Saving map 'Lvl1_TheMarket2' took 0.556
+[2023.02.03-05.39.50:346][464]LogContentBrowser: End creating deferred item Lvl1_TheMarket2
+[2023.02.03-05.39.50:352][464]AssetCheck: New page: Asset Save: Lvl1_TheMarket2
+[2023.02.03-05.39.50:353][464]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket2.Lvl1_TheMarket2
+[2023.02.03-05.43.16:560][433]LogContentBrowser: Attempting asset rename: Lvl1_TheMarket1 -> Lvl2_TheForest
+[2023.02.03-05.43.17:171][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.03-05.43.17:185][433]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl2_TheForest6C4398D549F4EB9668D6979B141E2CD1.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl2_TheForest.umap'
+[2023.02.03-05.43.17:673][433]LogFileHelpers: Saving map 'Lvl2_TheForest' took 0.518
+[2023.02.03-05.43.18:006][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.02.03-05.43.18:026][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.02.03-05.43.18:052][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.03-05.43.18:240][433]SourceControl: rm 'GGJ2023/Content/Maps/levels/Lvl1_TheMarket1.umap'
+[2023.02.03-05.43.18:271][433]AssetCheck: New page: Asset Save: Lvl2_TheForest
+[2023.02.03-05.43.18:271][433]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl2_TheForest.Lvl2_TheForest
+[2023.02.03-05.43.30:870][184]LogContentBrowser: Attempting asset rename: Lvl2_TheForest -> Lvl2_TheForest
+[2023.02.03-05.44.13:130][164]LogContentBrowser: Attempting asset rename: Lvl1_TheMarket2 -> Lvl3_
+[2023.02.03-05.44.13:736][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.03-05.44.13:749][164]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl3_2036FAC34907982D16FE09AAF64199C3.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl3_.umap'
+[2023.02.03-05.44.14:140][164]LogFileHelpers: Saving map 'Lvl3_' took 0.428
+[2023.02.03-05.44.14:393][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.03-05.44.14:418][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.02.03-05.44.14:431][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.03-05.44.14:565][164]SourceControl: rm 'GGJ2023/Content/Maps/levels/Lvl1_TheMarket2.umap'
+[2023.02.03-05.44.14:595][164]AssetCheck: New page: Asset Save: Lvl3_
+[2023.02.03-05.44.14:595][164]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl3_.Lvl3_
+[2023.02.03-05.44.35:382][407]LogContentBrowser: Attempting asset rename: Lvl3_ -> Lvl3_TheMountain
+[2023.02.03-05.44.36:017][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.03-05.44.36:029][407]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl3_TheMountain12E7D2074BA76E563F88A88500DE1318.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl3_TheMountain.umap'
+[2023.02.03-05.44.36:477][407]LogFileHelpers: Saving map 'Lvl3_TheMountain' took 0.476
+[2023.02.03-05.44.36:827][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.03-05.44.36:845][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.03-05.44.36:858][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.03-05.44.37:129][407]SourceControl: rm 'GGJ2023/Content/Maps/levels/Lvl3_.umap'
+[2023.02.03-05.44.37:169][407]AssetCheck: New page: Asset Save: Lvl3_TheMountain
+[2023.02.03-05.44.37:169][407]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl3_TheMountain.Lvl3_TheMountain
+[2023.02.03-05.45.01:065][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.02.03-05.45.01:077][827]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarketA9F3DBC74B18F0CC6DC6EFA3FA749951.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-05.45.01:088][827]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.038
+[2023.02.03-05.45.01:102][827]AssetCheck: New page: Asset Save: Lvl1_TheMarket
+[2023.02.03-05.45.01:102][827]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:108][ 48]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-05.45.55:438][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.02.03-05.45.55:449][ 48]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarket9DE366A74DF25BF01B5AE2BE850353F2.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-05.45.55:459][ 48]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.036
+[2023.02.03-05.45.55:474][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.03-05.45.55:484][ 48]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl2_TheForestBF1BB8C641065F4A27F9DCA14E6F0D3F.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl2_TheForest.umap'
+[2023.02.03-05.45.55:487][ 48]LogFileHelpers: Saving map 'Lvl2_TheForest' took 0.028
+[2023.02.03-05.45.55:503][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.03-05.45.55:512][ 48]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl3_TheMountainBA260F5D4B5BED2C1A1AD4967546915A.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl3_TheMountain.umap'
+[2023.02.03-05.45.55:516][ 48]LogFileHelpers: Saving map 'Lvl3_TheMountain' took 0.029
+[2023.02.03-05.47.05:427][ 48]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.03-05.47.06:987][ 48]LogSourceControl: commit successful: [main 7c7644f] made the three level basics layouts
+[2023.02.03-05.47.07:043][ 48]SourceControl: [main 7c7644f] made the three level basics layouts
+[2023.02.03-05.47.07:043][ 48]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2023.02.03-05.47.07:043][ 48]SourceControl:  create mode 100644 GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap
+[2023.02.03-05.47.07:043][ 48]SourceControl:  create mode 100644 GGJ2023/Content/Maps/levels/Lvl2_TheForest.umap
+[2023.02.03-05.47.07:043][ 48]SourceControl:  create mode 100644 GGJ2023/Content/Maps/levels/Lvl3_TheMountain.umap
+[2023.02.03-05.47.07:053][ 48]SourceControl: Commited [main 7c7644f] made the three level basics layouts.
+[2023.02.03-05.47.07:078][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-05.47.07:078][ 49]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-05.47.07:078][ 49]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl2_TheForest.Lvl2_TheForest
+[2023.02.03-05.47.07:078][ 49]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl3_TheMountain.Lvl3_TheMountain
+[2023.02.03-05.47.28:072][296]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.02.03-05.47.29:828][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.02.03-05.59.48:751][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.03-05.59.48:792][411]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2023.02.03-05.59.48:792][411]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-05.59.48:792][411]LightingResults: New page: Lighting Build
+[2023.02.03-05.59.48:792][411]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2023.02.03-05.59.48:793][411]LogWorld: UWorld::CleanupWorld for Lvl1_TheMarket, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-05.59.48:793][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-05.59.48:793][411]MapCheck: New page: Map Check
+[2023.02.03-05.59.48:793][411]LightingResults: New page: Lighting Build
+[2023.02.03-05.59.48:806][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-05.59.48:809][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.03-05.59.48:826][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.02.03-05.59.48:840][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.03-05.59.48:854][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.03-05.59.48:854][411]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2023.02.03-05.59.48:882][411]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-05.59.48:882][411]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2023.02.03-05.59.48:898][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.03-05.59.48:905][411]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-05.59.48:905][411]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2023.02.03-05.59.48:905][411]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.112
+[2023.02.03-06.00.00:348][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.03-06.00.01:897][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.02.03-06.00.02:871][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.03-06.00.09:013][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.03-06.00.09:431][630]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2023.02.03-06.04.29:028][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2023.02.03-06.04.30:378][922]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall3)
+[2023.02.03-06.04.31:108][965]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1)
+[2023.02.03-06.04.32:454][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge1)
+[2023.02.03-06.04.32:990][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge2)
+[2023.02.03-06.04.34:318][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge6)
+[2023.02.03-06.04.35:914][250]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge3)
+[2023.02.03-06.04.39:979][491]Cmd: EDIT COPY
+[2023.02.03-06.04.44:661][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.03-06.04.44:698][770]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-06.04.44:698][770]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-06.04.44:698][770]LightingResults: New page: Lighting Build
+[2023.02.03-06.04.44:698][770]LoadErrors: New page: Loading map: Lvl1_TheMarket.umap
+[2023.02.03-06.04.44:700][770]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-06.04.44:700][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.04.44:701][770]MapCheck: New page: Map Check
+[2023.02.03-06.04.44:701][770]LightingResults: New page: Lighting Build
+[2023.02.03-06.04.44:713][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-06.04.44:717][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.02.03-06.04.44:718][770]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl1_TheMarket'.
+[2023.02.03-06.04.44:738][770]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-06.04.44:738][770]LogAIModule: Creating AISystem for world Lvl1_TheMarket
+[2023.02.03-06.04.44:755][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.03-06.04.44:762][770]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-06.04.44:762][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2023.02.03-06.04.44:762][770]LogFileHelpers: Loading map 'Lvl1_TheMarket' took 0.064
+[2023.02.03-06.04.45:972][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.02.03-06.04.48:171][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.02.03-06.04.49:087][ 28]Cmd: EDIT PASTE
+[2023.02.03-06.04.49:093][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.03-06.05.02:380][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.03-06.05.13:192][463]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.03-06.05.38:018][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.02.03-06.05.39:208][941]LogSlate: Window 'Save Content' being destroyed
+[2023.02.03-06.05.39:377][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.03-06.05.39:400][941]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarketE5C63C744DFF108C0DBC3281B6BD5C76.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-06.05.39:412][941]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.062
+[2023.02.03-06.05.39:452][941]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/levels/Lvl2_TheForest.Lvl2_TheForest
+[2023.02.03-06.05.39:452][941]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl2_TheForest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-06.05.39:452][941]LightingResults: New page: Lighting Build
+[2023.02.03-06.05.39:452][941]LoadErrors: New page: Loading map: Lvl2_TheForest.umap
+[2023.02.03-06.05.39:453][941]LogWorld: UWorld::CleanupWorld for Lvl1_TheMarket, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-06.05.39:454][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.05.39:454][941]MapCheck: New page: Map Check
+[2023.02.03-06.05.39:454][941]LightingResults: New page: Lighting Build
+[2023.02.03-06.05.39:465][941]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-06.05.39:468][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.03-06.05.39:469][941]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl2_TheForest'.
+[2023.02.03-06.05.39:494][941]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-06.05.39:494][941]LogAIModule: Creating AISystem for world Lvl2_TheForest
+[2023.02.03-06.05.39:511][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.02.03-06.05.39:519][941]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-06.05.39:519][941]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2023.02.03-06.05.39:519][941]LogFileHelpers: Loading map 'Lvl2_TheForest' took 0.067
+[2023.02.03-06.05.39:536][941]AssetCheck: New page: Asset Save: Lvl1_TheMarket
+[2023.02.03-06.05.39:536][941]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-06.05.43:592][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.03-06.05.44:678][178]LogSlate: Window 'Save Content' being destroyed
+[2023.02.03-06.05.44:854][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.03-06.05.44:871][178]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl2_TheForest7C0F34C74B45D8E8BBE65D84A23D8A5C.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl2_TheForest.umap'
+[2023.02.03-06.05.44:882][178]LogFileHelpers: Saving map 'Lvl2_TheForest' took 0.050
+[2023.02.03-06.05.44:911][178]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/levels/Lvl3_TheMountain.Lvl3_TheMountain
+[2023.02.03-06.05.44:911][178]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl3_TheMountain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-06.05.44:911][178]LightingResults: New page: Lighting Build
+[2023.02.03-06.05.44:911][178]LoadErrors: New page: Loading map: Lvl3_TheMountain.umap
+[2023.02.03-06.05.44:947][178]LogWorld: UWorld::CleanupWorld for Lvl2_TheForest, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-06.05.44:947][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.05.44:948][178]MapCheck: New page: Map Check
+[2023.02.03-06.05.44:948][178]LightingResults: New page: Lighting Build
+[2023.02.03-06.05.44:961][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-06.05.44:965][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.03-06.05.44:984][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.03-06.05.44:997][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.02.03-06.05.44:997][178]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl3_TheMountain'.
+[2023.02.03-06.05.45:020][178]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-06.05.45:020][178]LogAIModule: Creating AISystem for world Lvl3_TheMountain
+[2023.02.03-06.05.45:036][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.03-06.05.45:043][178]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-06.05.45:043][178]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2023.02.03-06.05.45:043][178]LogFileHelpers: Loading map 'Lvl3_TheMountain' took 0.131
+[2023.02.03-06.05.45:058][178]AssetCheck: New page: Asset Save: Lvl2_TheForest
+[2023.02.03-06.05.45:058][178]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl2_TheForest.Lvl2_TheForest
+[2023.02.03-06.05.54:572][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.03-06.05.55:856][740]LogSlate: Window 'Save Content' being destroyed
+[2023.02.03-06.05.56:020][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.03-06.05.56:050][740]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl3_TheMountain68D35BF9437D88029CA250A7D3109FED.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl3_TheMountain.umap'
+[2023.02.03-06.05.56:062][740]LogFileHelpers: Saving map 'Lvl3_TheMountain' took 0.063
+[2023.02.03-06.05.56:105][740]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-06.05.56:105][740]Cmd: MAP LOAD FILE="C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.03-06.05.56:105][740]LightingResults: New page: Lighting Build
+[2023.02.03-06.05.56:105][740]LoadErrors: New page: Loading map: Lvl1_TheMarket.umap
+[2023.02.03-06.05.56:146][740]LogWorld: UWorld::CleanupWorld for Lvl3_TheMountain, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-06.05.56:146][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.05.56:147][740]MapCheck: New page: Map Check
+[2023.02.03-06.05.56:147][740]LightingResults: New page: Lighting Build
+[2023.02.03-06.05.56:161][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-06.05.56:163][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.03-06.05.56:186][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.03-06.05.56:200][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.03-06.05.56:200][740]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl1_TheMarket'.
+[2023.02.03-06.05.56:223][740]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.03-06.05.56:223][740]LogAIModule: Creating AISystem for world Lvl1_TheMarket
+[2023.02.03-06.05.56:238][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.03-06.05.56:245][740]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.03-06.05.56:245][740]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2023.02.03-06.05.56:245][740]LogFileHelpers: Loading map 'Lvl1_TheMarket' took 0.140
+[2023.02.03-06.05.56:262][740]AssetCheck: New page: Asset Save: Lvl3_TheMountain
+[2023.02.03-06.05.56:262][740]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl3_TheMountain.Lvl3_TheMountain
+[2023.02.03-06.05.57:880][834]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.03-06.05.57:891][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-06.05.57:892][834]PIE: New page: PIE session: Lvl1_TheMarket (Feb 2, 2023, 6:05:57 PM)
+[2023.02.03-06.05.57:893][834]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.03-06.05.57:895][834]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.03-06.05.57:896][834]LogPlayLevel: Creating play world package: /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket
+[2023.02.03-06.05.57:905][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009046s)
+[2023.02.03-06.05.57:906][834]LogAIModule: Creating AISystem for world Lvl1_TheMarket
+[2023.02.03-06.05.57:906][834]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2023.02.03-06.05.57:906][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket to /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket.Lvl1_TheMarket (0.011356s)
+[2023.02.03-06.05.57:923][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.03-06.05.57:925][834]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-06.05.57:925][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-06.05.57:925][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-06.05.57:925][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-06.05.57:925][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-06.05.57:925][834]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.03-06.05.57:928][834]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.03-06.05.57:928][834]LogAudioMixer: Display: 1: FrontRight
+[2023.02.03-06.05.57:957][834]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.02.03-06.05.57:957][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-06.05.57:957][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-06.05.57:957][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-06.05.57:957][834]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.03-06.05.57:957][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.03-06.05.57:957][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.03-06.05.57:958][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.03-06.05.57:958][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.03-06.05.57:958][834]LogInit: FAudioDevice initialized.
+[2023.02.03-06.05.57:958][834]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl1_TheMarket'.
+[2023.02.03-06.05.57:969][834]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2023.02.03-06.05.57:974][834]LogWorld: Bringing World /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket.Lvl1_TheMarket up for play (max tick rate 60) at 2023.02.03-00.05.57
+[2023.02.03-06.05.57:975][834]LogWorld: Bringing up level for play took: 0.001034
+[2023.02.03-06.05.57:975][834]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.02.03-06.05.57:987][834]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.02.03-06.05.58:000][834]PIE: Server logged in
+[2023.02.03-06.05.58:002][834]PIE: Play in editor total start time 0.115 seconds.
+[2023.02.03-06.06.40:797][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-06.06.40:797][377]LogWorld: BeginTearingDown for /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket
+[2023.02.03-06.06.40:798][377]LogWorld: UWorld::CleanupWorld for Lvl1_TheMarket, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-06.06.40:798][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.06.40:806][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-06.06.40:810][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.06.40:828][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-06.06.40:828][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.03-06.06.40:828][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.03-06.06.40:889][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.02.03-06.06.40:910][378]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.03-06.06.52:032][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge3)
+[2023.02.03-06.06.58:077][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge6)
+[2023.02.03-06.07.32:041][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge3)
+[2023.02.03-06.07.33:605][525]Cmd: DELETE
+[2023.02.03-06.07.33:605][525]Cmd: ACTOR DELETE
+[2023.02.03-06.07.33:606][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.03-06.07.33:640][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.03-06.07.33:643][525]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.02.03-06.07.38:580][821]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2023.02.03-06.07.39:637][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.03-06.07.41:164][970]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.03-06.07.41:172][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-06.07.41:172][970]PIE: New page: PIE session: Lvl1_TheMarket (Feb 2, 2023, 6:07:41 PM)
+[2023.02.03-06.07.41:172][970]LogPlayLevel: Creating play world package: /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket
+[2023.02.03-06.07.41:180][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007424s)
+[2023.02.03-06.07.41:186][970]LogAIModule: Creating AISystem for world Lvl1_TheMarket
+[2023.02.03-06.07.41:186][970]LogPlayLevel: PIE: World Init took: (0.005897s)
+[2023.02.03-06.07.41:186][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket to /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket.Lvl1_TheMarket (0.013574s)
+[2023.02.03-06.07.41:201][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.03-06.07.41:202][970]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.03-06.07.41:202][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-06.07.41:202][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-06.07.41:203][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-06.07.41:203][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-06.07.41:203][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-06.07.41:203][970]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.03-06.07.41:206][970]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.03-06.07.41:206][970]LogAudioMixer: Display: 1: FrontRight
+[2023.02.03-06.07.41:231][970]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.02.03-06.07.41:231][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-06.07.41:231][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-06.07.41:231][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-06.07.41:233][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.03-06.07.41:233][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.03-06.07.41:233][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.03-06.07.41:234][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.03-06.07.41:234][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.03-06.07.41:234][970]LogInit: FAudioDevice initialized.
+[2023.02.03-06.07.41:234][970]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl1_TheMarket'.
+[2023.02.03-06.07.41:240][970]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2023.02.03-06.07.41:241][970]LogWorld: Bringing World /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket.Lvl1_TheMarket up for play (max tick rate 60) at 2023.02.03-00.07.41
+[2023.02.03-06.07.41:242][970]LogWorld: Bringing up level for play took: 0.000583
+[2023.02.03-06.07.41:242][970]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.02.03-06.07.41:245][970]PIE: Server logged in
+[2023.02.03-06.07.41:246][970]PIE: Play in editor total start time 0.076 seconds.
+[2023.02.03-06.07.50:729][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-06.07.50:729][536]LogWorld: BeginTearingDown for /Game/Maps/levels/UEDPIE_0_Lvl1_TheMarket
+[2023.02.03-06.07.50:729][536]LogWorld: UWorld::CleanupWorld for Lvl1_TheMarket, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-06.07.50:730][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.07.50:737][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-06.07.50:755][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-06.07.50:771][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-06.07.50:771][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.03-06.07.50:772][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.03-06.07.50:810][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-06.07.50:812][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.03-06.07.50:838][537]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:383][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.05:384][397]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.08.07:077][397]LogSlate: Window 'Save Content' being destroyed
+[2023.02.03-06.08.07:257][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.02.03-06.08.07:271][397]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarket46C5D052482CDAF2E2470C92CEF71F4C.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-06.08.07:284][397]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.051
+[2023.02.03-06.08.48:974][397]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.03-06.08.50:395][397]LogSourceControl: commit successful: [main e58b0ed] added a base level platfrom to level 1 also added a player spawn point to the level
+[2023.02.03-06.08.50:449][397]SourceControl: [main e58b0ed] added a base level platfrom to level 1 also added a player spawn point to the level
+[2023.02.03-06.08.50:449][397]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2023.02.03-06.08.50:456][397]SourceControl: Commited [main e58b0ed] added a base level platfrom to level 1 also added a player spawn point to the level.
+[2023.02.03-06.08.50:487][398]AssetCheck: New page: Asset Save: Lvl1_TheMarket
+[2023.02.03-06.08.50:487][398]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-06.09.22:201][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge6)
+[2023.02.03-06.09.33:242][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.03-06.09.33:257][929]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarket3453C7A442B5833AF8D4A5B994ADAEBA.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-06.09.33:267][929]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.040
+[2023.02.03-06.09.33:279][929]AssetCheck: New page: Asset Save: Lvl1_TheMarket
+[2023.02.03-06.09.33:279][929]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:442][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:443][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:443][169]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023'
+[2023.02.03-06.09.37:785][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.02.03-06.09.37:798][169]LogSavePackage: Moving 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Saved/Lvl1_TheMarketD3A2DF024B6480922C3C2A9B67B8B5B0.tmp' to 'C:/Users/Murda/OneDrive - Full Sail University/Desktop/My projects/GGJ/GGJ2023/GGJ2023/Content/Maps/levels/Lvl1_TheMarket.umap'
+[2023.02.03-06.09.37:808][169]LogFileHelpers: Saving map 'Lvl1_TheMarket' took 0.041
+[2023.02.03-06.09.47:400][169]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.03-06.09.48:099][169]LogSourceControl: commit successful: [main 8e62319] testing
+[2023.02.03-06.09.48:152][169]SourceControl: [main 8e62319] testing
+[2023.02.03-06.09.48:152][169]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.02.03-06.09.48:160][169]SourceControl: Commited [main 8e62319] testing.
+[2023.02.03-06.09.48:179][170]AssetCheck: New page: Asset Save: Lvl1_TheMarket
+[2023.02.03-06.09.48:179][170]LogContentValidation: Display: Validating World /Game/Maps/levels/Lvl1_TheMarket.Lvl1_TheMarket
